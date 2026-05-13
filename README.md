@@ -27,11 +27,11 @@ O sistema simula uma prova real do DETRAN, selecionando aleatoriamente questões
 
 | Categoria | Quantidade |
 | :--- | :---: |
-| Legislação | 15 |
-| Direção Defensiva | 15 |
-| Mecânica | 10 |
-| Primeiros Socorros | 10 |
-| Meio Ambiente | 10 |
+| Legislação | 9 |
+| Direção Defensiva | 9 |
+| Mecânica | 4 |
+| Primeiros Socorros | 4 |
+| Meio Ambiente | 4 |
 
 ### Objetivos Técnicos Alcançados:
 *   **Integração Full-stack:** Conexão bem-sucedida entre o frontend em Python e o backend em SQL.
